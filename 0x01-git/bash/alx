@@ -1,3 +1,2 @@
-#!bin/bash
-echo "ALX School"
-__EDF__
+#!/bin/bash
+echo "ALX School is so cool"
